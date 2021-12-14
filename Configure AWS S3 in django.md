@@ -48,3 +48,4 @@
   
       `DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'`
 
+Refernce: <https://www.section.io/engineering-education/how-to-upload-files-to-aws-s3-using-django-rest-framework/>
